@@ -1,0 +1,34 @@
+.header-wrapper{
+
+}
+.body-wrapper{
+
+}
+.footer-wrapper{
+
+}
+.cearlfix:after,.clearfix:before{
+	content:"";
+	clear:both;
+	display:table;
+}
+.container{
+	/*overflow:hidden;*/
+	overflow:hidden;
+	position:relative;
+/*	position:relative;*/
+}
+.wrapper{
+	width:100%;
+/*	position:absolute;
+	left:100px;*/
+	
+}
+.wrapper img{
+/*display:inline-block;*/
+width:1366px;
+height:600px;
+float:left;
+
+}
+
